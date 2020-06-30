@@ -10,7 +10,10 @@ Here you will find:
 - Udpated Resume
 - Updated LinkedIn profile
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
+![Deployed page](https://github.com/soverylarry/soverylarry.github.io/blob/master/Portfolio%20homepage.png)
 
 
 
